@@ -27,3 +27,11 @@ Conclusion
      a. p value > 0.05 for complaint type so we cannot reject that complaint type do not have effect on request closing time.
      b. Whereas p value < 0.05 for location type so we can reject null hypothesis that location type do not have effect on request closing time.
      c. Now we can say that we cannot reject or null hypothesis completely.
+
+
+Few interesting plots
+
+![image](https://github.com/Anakin-Chauhan/311_servise_request_analysis/assets/71073104/ba9ca72b-d0f8-4a0a-a2d5-6eac9445a7fe)
+
+![image](https://github.com/Anakin-Chauhan/311_servise_request_analysis/assets/71073104/27efcda8-1554-401a-a971-3b28dba65060)
+
